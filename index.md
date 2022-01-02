@@ -1,4 +1,4 @@
-![Image](https://1drv.ms/u/s!AkF3965rWvRjhAHPPRpgGv5Mjr6x)
+![Image](https://cdn.glitch.me/32df809f-6c4d-44bb-940f-cb898c25de90%2FScreenshot 2020-11-11 at 12.59.25.png)
 ## t9cheetah Code
 
 This is t9cheetah Code, a place for resources and example code in many languages.
