@@ -11,6 +11,5 @@ Use of the software uploaded is governed by the [Terms](/terms).
 2. [HTML](/html)
 3. [C](/c-program)
 
-[Link](url) and ![Image](src)
 
 ####### Home Page: [https://t9.ch/w.home](https://t9cheetah.glitch.me)
