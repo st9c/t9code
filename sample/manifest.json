@@ -1,0 +1,21 @@
+{
+"manifest_version": 2,
+"name": "Example. MODIFY THIS.",
+"description": "MODIFY THIS",
+"version": "1.1",
+"icons": {
+"128": "128.png"
+},
+"app": {
+"urls": [
+"MODIFY THIS"
+],
+"launch": {
+"MODIFY THIS"
+}
+},
+"permissions": [
+"unlimitedStorage",
+"notifications"
+]
+}
