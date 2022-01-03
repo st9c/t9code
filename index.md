@@ -6,9 +6,9 @@ Use of the software uploaded is governed by the [Terms](/terms).
 
 ### Contents
 
-1. [JSON](/json)
-2. [HTML](/html)
-3. [C](/c-program)
+1. [JSON](t9code/json)
+2. [HTML](t9code/html)
+3. [C](t9code/c-program)
 
 
-####### Home Page: [https://t9.ch/w.home](https://t9cheetah.glitch.me)
+Home Page: [https://t9.ch/w.home](https://t9cheetah.glitch.me)
