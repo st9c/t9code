@@ -3,8 +3,8 @@ Official Website: [share.github.t9c/git?30933](https://www.iso.org/standard/7452
 
 ## Samples:
 
-1. [hello.c](https://st9c.github.io/t9code/c-program/hello.c)
-2. [cs50_library.c](https://st9c.github.io/t9code/c-program/cs50_lib.c)
+1. [hello.c](https://st9c.github.io/t9code/sample/hello.c)
+2. [cs50_library.c](https://st9c.github.io/t9code/sample/cs50_lib.c)
 
 More coming soon!
 
